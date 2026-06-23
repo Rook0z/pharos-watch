@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-PharosWatch - Real-time Pharos Network Event Tracker
-Monitors wallet activity and smart contract events with Discord alerts.
-"""
-
 import asyncio
 import logging
 import signal
